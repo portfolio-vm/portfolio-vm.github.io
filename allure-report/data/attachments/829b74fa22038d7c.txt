@@ -1,4 +1,0 @@
-education
-locator('div[id="s_overlay"]>div[class*="modal"]') | locator('div[id="l_overlay"]>div[class*="modal"]') | https://capital.com/fr/trade-commodities
-true false
- modal form SIGNUP is visible 
